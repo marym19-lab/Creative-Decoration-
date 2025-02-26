@@ -1,0 +1,26 @@
+
+a{
+    text-decoration: none;
+}
+ul{
+list-style: none;
+}
+nav{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 25px 0;
+}
+nav ul{
+display: flex ;
+align-items: center;
+}
+nav ul a {
+color:rgb(240, 147, 97);
+padding :20px ;
+
+}
+p{
+text-size-adjust: 40px;
+}
+
